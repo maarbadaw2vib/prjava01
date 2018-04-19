@@ -21,7 +21,7 @@ public class Prjava01 {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
             bw.write("<html>");
             bw.newLine();
-            bw.write("  <head><meta charset='UTF-8'>");
+            bw.write("  <head><meta charset='UTF-8'> ");
             bw.newLine();
             bw.write("    <title>");
             bw.newLine();
@@ -34,6 +34,7 @@ public class Prjava01 {
             bw.write("  <body>");
             bw.newLine();
             bw.write("    <h1>DAW2 m08uf4pr2 MARC</h1>");
+            bw.write("    <h2>Com m'he equivocat creo esta nova VERSIÓ</h2>");
             bw.newLine();
             bw.write("    Nova p&agrave;gina web creada pel Marc Ariño");
             bw.newLine();
