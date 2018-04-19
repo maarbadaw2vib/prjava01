@@ -33,6 +33,8 @@ public class Prjava01 {
             bw.newLine();
             bw.write("  <body>");
             bw.newLine();
+            bw.write("    <h1>DAW2 m08uf4pr2 MARC</h1>");
+            bw.newLine();
             bw.write("    Nova p&agrave;gina web creada pel Marc Ariño");
             bw.newLine();
             bw.write("  </body>");
